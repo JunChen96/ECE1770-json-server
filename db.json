@@ -1,0 +1,25 @@
+{
+	"tokens": [
+	  {
+	    "id": 0,
+	    "description": "Kyle NFT",
+	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+	    "name": "Kyle NFT 0"
+	  },
+	  {
+	    "id": 1,
+	    "description": "Kyle NFT",
+	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+	    "name": "Kyle NFT 1"
+	  },
+	  {
+	    "id": 2,
+	    "description": "Kyle NFT",
+	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+	    "name": "Kyle NFT 2"
+	  }
+	]
+}
