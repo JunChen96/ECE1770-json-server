@@ -10,14 +10,14 @@
 	  {
 	    "id": 1,
 	    "description": "/UofT NFT by CJ",
-	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/GpT4gSS/UofT.jpg",
 	    "name": "Kyle NFT 1"
 	  },
 	  {
 	    "id": 2,
 	    "description": "Kyle NFT",
-	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
 	    "name": "Kyle NFT 3"
 	  }
