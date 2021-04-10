@@ -2,24 +2,24 @@
 	"tokens": [
 	  {
 	    "id": 0,
-	    "description": "Kyle NFT",
-	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-	    "name": "Kyle NFT 0"
+	    "description": "Kyle NFT - Bahen Building",
+	    "external_url": "https://junchen96.github.io/",
+	    "image": "https://i.ibb.co/J5K5Nd6/bahen.jpg",
+	    "name": "Kyle NFT 1"
 	  },
 	  {
 	    "id": 1,
 	    "description": "Kyle NFT",
 	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-	    "name": "Kyle NFT 1"
+	    "name": "Kyle NFT 2"
 	  },
 	  {
 	    "id": 2,
 	    "description": "Kyle NFT",
 	    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
 	    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-	    "name": "Kyle NFT 2"
+	    "name": "Kyle NFT 3"
 	  }
 	]
 }
