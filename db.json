@@ -21,6 +21,14 @@
 	    "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
 	    "name": "Waltz",
 	    "audio": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
+	  },
+	  {
+	    "id": 3,
+	    "description": "Waltz by Mike Paer. First music track nft minted on Kyle Token(KYT).",
+	    "external_url": "https://junchen96.github.io/",
+	    "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
+	    "name": "Waltz",
+	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  }
 	]
 }
