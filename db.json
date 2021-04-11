@@ -5,14 +5,16 @@
 	    "description": "Kyle NFT - Bahen Building",
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/J5K5Nd6/bahen.jpg",
-	    "name": "Kyle NFT 1"
+	    "name": "Kyle NFT 1",
+	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  },
 	  {
 	    "id": 1,
 	    "description": "/UofT NFT by CJ",
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/GpT4gSS/UofT.jpg",
-	    "name": "Kyle NFT 2"
+	    "name": "Kyle NFT 2",
+	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  },
 	  {
 	    "id": 2,
@@ -20,7 +22,7 @@
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
 	    "name": "Waltz",
-	    "audio": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
+	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  },
 	  {
 	    "id": 3,
