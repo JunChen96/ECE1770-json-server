@@ -2,10 +2,10 @@
 	"tokens": [
 	  {
 	    "id": 0,
-	    "description": "Kyle NFT - Bahen Building",
+	    "description": "Demo NFT - Bahen Building, the building of Engineering and Computer Science",
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/J5K5Nd6/bahen.jpg",
-	    "name": "Kyle NFT 1",
+	    "name": "Bahen NFT ",
 	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  },
 	  {
@@ -18,18 +18,18 @@
 	  },
 	  {
 	    "id": 2,
-	    "description": "Waltz by Mike Paer. First music track nft minted on Kyle Token(KYT).",
+	    "description": "1th Waltz by Mike Paer. First music track nft minted on Kyle Token(KYT).",
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
-	    "name": "Waltz",
+	    "name": "Waltz 1",
 	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  },
 	  {
 	    "id": 3,
-	    "description": "Waltz by Mike Paer. First music track nft minted on Kyle Token(KYT).",
+	    "description": "2th Waltz by Mike Paer. First music track nft minted on Kyle Token(KYT).",
 	    "external_url": "https://junchen96.github.io/",
 	    "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
-	    "name": "Waltz",
+	    "name": "Waltz 2",
 	    "animation_url": "https://www.mboxdrive.com/Mike%20Paer%20-%20Waltz.mp3"
 	  }
 	]
