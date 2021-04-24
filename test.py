@@ -1,4 +1,5 @@
 import json
+import copy
   
 # Opening JSON file
 # with open('db.json') as json_file:
@@ -8,7 +9,7 @@ import json
 #     print("Type:", type(data))
   
 data = {}
-d = {
+a = {
     "id": 0,
     "description": "1th Waltz by Mike Paer.",
     "image": "https://i.ibb.co/7YGYgpb/waltz.jpg",
@@ -18,15 +19,19 @@ d = {
 
 lst = []
 for i in range(30):
+	d = copy.deepcopy(a)
 	d["id"] = i
 	d["description"] = str(i) + "th Waltz by Mike Paer."
 	d["name"] = "Waltz " + str(i)
+	print(d, end="\n")
 	lst.append(d)
+
 
 
 data['tokens'] = lst
 
-print(data['tokens'])
+# print(data['tokens'])
+print(lst)
 
 with open('new.json', 'w') as fp:
 	json.dump(data, fp)
