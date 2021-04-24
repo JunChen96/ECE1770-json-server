@@ -17,7 +17,7 @@ d = {
   }
 
 lst = []
-for i in range(50):
+for i in range(30):
 	d["id"] = i
 	d["description"] = str(i) + "th Waltz by Mike Paer."
 	d["name"] = "Waltz " + str(i)
